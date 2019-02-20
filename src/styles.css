@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.time {
+  font-size: 5em;
+}
+
+.timer-container {
+  height: 300px;
+  padding-top: 10px;
+  background-color: #5b6770;
+  border-radius: 40%;
+}
+
+#minIn,
+#secIn {
+  border-radius: 5px;
+  margin: 2px;
+  width: 75px;
+}
